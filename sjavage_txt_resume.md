@@ -170,20 +170,22 @@ ISO27001 | ITIL v3 | PMP/PgMP | SAS70 | PCI-DSS | SSAE16 | Six-Sigma (Green Belt
 
 **Applications/Tools:**	Atlassian JIRA & Confluence (Admin) | GIT Hub | GitLab | Launchpad | FishEye | ServiceNow | BMC Remedy | Lean Kit | Asana | Clarity | Marketo | Salesforce (Advanced) | MS Project (Expert) | MS Visio (Expert) | MS Office Suite (Expert)
 
-**Agile:** 			Scrum | Agile | SAFe | XP | RAD | Lean | Kanban  
+**Agile:** Scrum | Agile | SAFe | XP | RAD | Lean | Kanban  
 
-**Operating Systems:**	Windows | Mac OS X | Windows Server | Linux (RHEL, Ubuntu, Debian) | Solaris | SUSE  
+**Operating Systems:** Windows | Mac OS X | Windows Server | Linux (RHEL, Ubuntu, Debian) | Solaris | SUSE  
 
-**Cloud:**			Private – OpenStack | Apache Cloud Stack / Public – AWS | GCE | Azure | Joyent | Digital Ocean
+**Cloud:** Private – OpenStack | Apache Cloud Stack / Public – AWS | GCE | Azure | Joyent | Digital Ocean
 
-**Hypervisors:**		KVM | LXD | Hyper V | VMware (VCenter) | Citrix (XenApp)
+**Hypervisors:** KVM | LXD | Hyper V | VMware (VCenter) | Citrix (XenApp)
 
-**Containers:**		Kubernetes | Docker | LXC | ECS | Kata | Cloud Foundry | PKS 
+**Containers:**	Kubernetes | Docker | LXC | ECS | Kata | Cloud Foundry | PKS 
 
 **Hardware:**	vBlock (UCS & Nexus) | Cisco | Juniper | EMC | Citrix | Checkpoint | Brocade | HPE (Synergy) | Dell | Riverbed | f5 | Source Fire | Infoblox | Blue Coat | NetApp | 3Par  
 
 **Networking:**	Open vSwitch (OSV) | Network Function Virtualization (NFV) | 7 Layer OSI Model | 4 Layer TCP/IP Model
 
-**Databases:**		Access | Oracle | SAP | SQL (MS SQL and MySQL) | NOSQL | Maria | Cassandra | Mongo
+**Databases:** Access | Oracle | SAP | SQL (MS SQL and MySQL) | NOSQL | Maria | Cassandra | Mongo
 
-**Protocols:**	TC / PIP | VPN | IPSec | Frame Relay | BGP | PPP | DHCP | AD | RDP | SSH / SSL | HTML | XML | SOAP | REST API | Java | IEEE 80211.x | SMTP | SNMP | HTTP/S | Telnet | PXE | IPMI | IPAM
+**Protocols:** TC / PIP | VPN | IPSec | Frame Relay | BGP | PPP | DHCP | AD | RDP | SSH / SSL | HTML | XML | SOAP | REST API | Java | IEEE 80211.x | SMTP | SNMP | HTTP/S | Telnet | PXE | IPMI | IPAM
+
+**Automation:**	Ansible | Puppet | Chef | SaltStack | Terraform  
