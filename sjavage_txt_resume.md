@@ -31,7 +31,7 @@ Good Project Management Practices, Continuous Process Improvements, Cross-Functi
 
 **Red Hat ― Remote**
 
-*Senior Project Manager and Deliver Lead – Consulting Practice | 2019–2020*
+**_Senior Project Manager and Delivery Lead – Consulting Practice | 2019–2020_**
 
 Operated in a multi-faceted and all-encompassing technical project management role, handling day-to-day responsibilities, including customer engagement management while sourcing new talent, along with developing organization infrastructure and architecture. Work directly with valued corporate clientele in the consultation and delivery of high-quality support services.
 
@@ -57,7 +57,7 @@ Operated in a multi-faceted and all-encompassing technical project management ro
 
 **Turnberry Solutions ― Philadelphia, PA								              	     2017–2019**
 
-*DevOps Technical Program Manager III | Comcast TPX ― Business Class Voice Product Engineering*
+**_DevOps Technical Program Manager III | Comcast TPX ― Business Class Voice Product Engineering_**
 
 - Collaborated cross-functionally and interdepartmentally with technical team and management while modernizing platform, handling transformational digital initiatives, and structuring internal processes with precision.
 
@@ -79,7 +79,7 @@ Operated in a multi-faceted and all-encompassing technical project management ro
 
 **Canonical USA ― Remote								                       	                     2014–2017**
 
-*Customer Experience Manager, Customer Success - Support & Technical Services (2014–2017)*
+**_Customer Experience Manager, Customer Success - Support & Technical Services (2014–2017)_**
 
 - Spearheaded innovative projects and large-scale initiatives, including piloting and deploying global business initiatives, driving year-over-your business growth, and implementing NPS program to optimize customer success metrics.
 
@@ -97,7 +97,7 @@ Operated in a multi-faceted and all-encompassing technical project management ro
 
 - Launched customer advisory board as well as the customer success program template, including program process, participation, membership, documentation, and operations.
 
-*Program Manager, Cloud DevOps – PMO | Canonical USA ― Remote					                    	  2014*
+**_Program Manager, Cloud DevOps – PMO | Canonical USA ― Remote					                    	  2014_**
 
 - Restructured Phase 0 program from crisis and delivered forked distribution of Ubuntu for high performance compute stack while completing full CI suite, including package and image building, testing, and publishing.
 
@@ -109,7 +109,7 @@ Operated in a multi-faceted and all-encompassing technical project management ro
 
 **Jaitra, Inc. (Contractor at Johnson & Johnson ITS) ― Raritan, NJ					                    	 	  2013**
 
-*Application and Infrastructure Project Manager*
+**_Application and Infrastructure Project Manager_**
 
 - Provided project management support for data center build projects within service provider locations in Singapore, UK, and the US while handling vendors’ selection process, creation of service catalogue with technology owner SMEs, and roll-out plan for services.
 
@@ -121,7 +121,7 @@ Operated in a multi-faceted and all-encompassing technical project management ro
 
 **SunGard Availability Services ― Philadelphia, PA					                    	 	     2006–2013**
 
-*Program Manager for North American Enterprise Cloud Services (2011–2013)*
+**_Program Manager for North American Enterprise Cloud Services (2011–2013)_**
 
 - Drove HA infrastructure capacity management, program planning, and execution regarding physical systems, storage, and network resources in 3 NA locations while supporting total footprint of 1700+ VMs and 1.6 PBs of storage.
 
@@ -133,7 +133,7 @@ Operated in a multi-faceted and all-encompassing technical project management ro
 
 **SunGard Availability Services ― Philadelphia, PA					                    	 	     2009–2011**
 
-*Senior Service Release Manager, Service Release Team*
+**_Senior Service Release Manager, Service Release Team_**
 
 - Assembled critical technical and cross-functional teams across entire managed and recovery services organizations using an Agile approach to bring new products and services to market from inception-to-general availability.
 
@@ -141,7 +141,7 @@ Operated in a multi-faceted and all-encompassing technical project management ro
 
 **SunGard Availability Services ― Philadelphia, PA					                    	 	     2006–2009**
 
-*Project Manager, Project Management and Compliance Team*
+**_Project Manager, Project Management and Compliance Team_**
 
 - Performed an integral role, implementing 150 managed services customer contracts, including 40 customers’ data center relocations; won awards, including APEX, Lead from Any Chair, and Quarterly Quality Awards.
 
@@ -153,18 +153,18 @@ Operated in a multi-faceted and all-encompassing technical project management ro
 
 ## EDUCATION QUALIFICATIONS, CERTIFICATIONS & TRAINING
 
-*Master of Science (M.S.) Project & Program Management* | GPA: 3.83 | **Brandeis University** ― Boston, MA	 2017
+*Master of Science (M.S.) Project & Program Management* | GPA: 3.83 | **Brandeis University** ― Boston, MA	 
 
-*Bachelor of Arts (B.A.) American Studies* | Cum Laude | GPA: 3.35 | **Temple University** ― Philadelphia, PA	 1995
+*Bachelor of Arts (B.A.) American Studies* | Cum Laude | GPA: 3.35 | **Temple University** ― Philadelphia, PA	 
 
-Business Administration & Management | Syracuse University – Martin J. Whitman School of Management	 1987 - 1989
+Business Administration & Management | Syracuse University – Martin J. Whitman School of Management	 1987 - 
 
 *Certified Scrum Product Owner (CSPO)* | Scrum Alliance - September 2020 | [See Credential](https://bcert.me/bc/html/show-badge.html?b=xedkonao)   
 *Certified Scrum Master (CSM)* | Scrum Alliance ― January 2020 | [See Credential](https://bcert.me/bc/html/show-badge.html?b=hesrmfwz)    
 
 *Project Management Certificate* | **Penn State University** - Abington, PA 2005
 
-ISO27001 | ITIL v3 | PMP/PgMP | SAS70 | PCI-DSS | SSAE16 | Six-Sigma (Green Belt)
+ISO27001 | ITIL v3 | Project Management Institute (PMI) | SAS70 | PCI-DSS | SSAE16 | Six-Sigma (Green Belt)
 
 ## TECHNOLOGY PROFICIENCY
 
@@ -182,10 +182,10 @@ ISO27001 | ITIL v3 | PMP/PgMP | SAS70 | PCI-DSS | SSAE16 | Six-Sigma (Green Belt
 
 **Hardware:**	vBlock (UCS & Nexus) | Cisco | Juniper | EMC | Citrix | Checkpoint | Brocade | HPE (Synergy) | Dell | Riverbed | f5 | Source Fire | Infoblox | Blue Coat | NetApp | 3Par  
 
-**Networking:**	Open vSwitch (OSV) | Network Function Virtualization (NFV) | 7 Layer OSI Model | 4 Layer TCP/IP Model
+**Networking:**	Open vSwitch (OSV) | Network Function Virtualization (NFV) | 7 Layer OSI Model | 4 Layer TCP/IP Model | Istio/Service Mesh | SDN | NSXi | Cisco ACI | Juniper Contrail | Cisco Broadview IMS
 
 **Databases:** Access | Oracle | SAP | SQL (MS SQL and MySQL) | NOSQL | Maria | Cassandra | Mongo
 
 **Protocols:** TC / PIP | VPN | IPSec | Frame Relay | BGP | PPP | DHCP | AD | RDP | SSH / SSL | HTML | XML | SOAP | REST API | Java | IEEE 80211.x | SMTP | SNMP | HTTP/S | Telnet | PXE | IPMI | IPAM
 
-**Automation:**	Ansible | Puppet | Chef | SaltStack | Terraform  
+**Automation:**	Ansible & Ansible Tower | Puppet | Chef | SaltStack | Terraform | Juju
