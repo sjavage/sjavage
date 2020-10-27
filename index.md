@@ -31,7 +31,7 @@ Good Project Management Practices, Continuous Process Improvements, Cross-Functi
 
 **Red Hat ― Remote**
 
-*Senior Project Manager and Deliver Lead – Consulting Practice | 2019–2020*
+*Senior Project Manager and Delivery Lead – Consulting Practice | 2019–2020*
 
 Operated in a multi-faceted and all-encompassing technical project management role, handling day-to-day responsibilities, including customer engagement management while sourcing new talent, along with developing organization infrastructure and architecture. Work directly with valued corporate clientele in the consultation and delivery of high-quality support services.
 
@@ -153,18 +153,18 @@ Operated in a multi-faceted and all-encompassing technical project management ro
 
 ## EDUCATION QUALIFICATIONS, CERTIFICATIONS & TRAINING
 
-*Master of Science (M.S.) Project & Program Management* | GPA: 3.83 | **Brandeis University** ― Boston, MA	 2017
+*Master of Science (M.S.) Project & Program Management* | GPA: 3.83 | **Brandeis University** ― Boston, MA	 
 
-*Bachelor of Arts (B.A.) American Studies* | Cum Laude | GPA: 3.35 | **Temple University** ― Philadelphia, PA	 1995
+*Bachelor of Arts (B.A.) American Studies* | Cum Laude | GPA: 3.35 | **Temple University** ― Philadelphia, PA	 
 
-Business Administration & Management | Syracuse University – Martin J. Whitman School of Management	 1987 - 1989
+Business Administration & Management | **Syracuse University** – Martin J. Whitman School of Management	- Syracuse, NY
 
 *Certified Scrum Product Owner (CSPO)* | Scrum Alliance - September 2020 | [See Credential](https://bcert.me/bc/html/show-badge.html?b=xedkonao)   
 *Certified Scrum Master (CSM)* | Scrum Alliance ― January 2020 | [See Credential](https://bcert.me/bc/html/show-badge.html?b=hesrmfwz)    
 
-*Project Management Certificate* | **Penn State University** - Abington, PA 2005
+*Project Management Certificate* | **Penn State University** - Abington, PA
 
-ISO27001 | ITIL v3 | PMP/PgMP | SAS70 | PCI-DSS | SSAE16 | Six-Sigma (Green Belt)
+ISO27001 | ITIL v3 | Project Management Institute (PMI) | SAS70 | PCI-DSS | SSAE16 | Six-Sigma (Green Belt)
 
 ## TECHNOLOGY PROFICIENCY
 
@@ -186,4 +186,4 @@ ISO27001 | ITIL v3 | PMP/PgMP | SAS70 | PCI-DSS | SSAE16 | Six-Sigma (Green Belt
 
 **Databases:**		Access | Oracle | SAP | SQL (MS SQL and MySQL) | NOSQL | Maria | Cassandra | Mongo
 
-**Protocols:**	TC / PIP | VPN | IPSec | Frame Relay | BGP | PPP | DHCP | AD | RDP | SSH / SSL | HTML | XML | SOAP | REST API | Java | IEEE 80211.x | SMTP | SNMP | HTTP/S | Telnet | PXE | IPMI | IPAM
+**AUTOMATION:**  Ansible & Ansible Tower | Puppet | Chef | SaltStack | Terraform | Juju
